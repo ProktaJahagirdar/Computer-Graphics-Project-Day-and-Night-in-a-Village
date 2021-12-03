@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\jprok\source\repos\Miniproject-Village2\Miniproject-Village2\Source.cpp(64,12): warning C4101: 'y1': unreferenced local variable
+C:\Users\jprok\source\repos\Miniproject-Village2\Miniproject-Village2\Source.cpp(64,8): warning C4101: 'x1': unreferenced local variable
+  Miniproject-Village2.vcxproj -> C:\Users\jprok\source\repos\Miniproject-Village2\Debug\Miniproject-Village2.exe
